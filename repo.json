@@ -1,9 +1,9 @@
 {
-      "name": "cloudstream-extensions-mulctilingual",
+      "name": "cloudstream-extensions-multilingual",
           "description": "Updating the Cloudstream Arabic Provider. Feel free to join the Cloudstream Discord server for the latest information.",
               "manifestVersion": 1,
                   "pluginLists": [
-                        "https://github.com/fagmixy/cloudstream-extensions-mulctilingual/raw/main/plugins.json"
+                        "https://github.com/fagmixy/cloudstream-extensions-multilingual/raw/main/plugins.json"
                             ]
                               }
 }
